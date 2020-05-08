@@ -1,0 +1,9 @@
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\bin\Debug\MetodTrapeciy.exe.config
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\bin\Debug\MetodTrapeciy.exe
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\bin\Debug\MetodTrapeciy.pdb
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\obj\Debug\MetodTrapeciy.csprojResolveAssemblyReference.cache
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\obj\Debug\MetodTrapeciy.Form1.resources
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\obj\Debug\MetodTrapeciy.Properties.Resources.resources
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\obj\Debug\MetodTrapeciy.csproj.GenerateResource.Cache
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\obj\Debug\MetodTrapeciy.exe
+D:\1\projects\MetodTrapeciy\MetodTrapeciy\obj\Debug\MetodTrapeciy.pdb

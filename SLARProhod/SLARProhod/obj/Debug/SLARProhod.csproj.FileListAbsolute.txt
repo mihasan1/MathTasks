@@ -1,0 +1,9 @@
+D:\1\projects\SLARProhod\SLARProhod\bin\Debug\SLARProhod.exe.config
+D:\1\projects\SLARProhod\SLARProhod\bin\Debug\SLARProhod.exe
+D:\1\projects\SLARProhod\SLARProhod\bin\Debug\SLARProhod.pdb
+D:\1\projects\SLARProhod\SLARProhod\obj\Debug\SLARProhod.csprojResolveAssemblyReference.cache
+D:\1\projects\SLARProhod\SLARProhod\obj\Debug\SLARProhod.Form1.resources
+D:\1\projects\SLARProhod\SLARProhod\obj\Debug\SLARProhod.Properties.Resources.resources
+D:\1\projects\SLARProhod\SLARProhod\obj\Debug\SLARProhod.csproj.GenerateResource.Cache
+D:\1\projects\SLARProhod\SLARProhod\obj\Debug\SLARProhod.exe
+D:\1\projects\SLARProhod\SLARProhod\obj\Debug\SLARProhod.pdb

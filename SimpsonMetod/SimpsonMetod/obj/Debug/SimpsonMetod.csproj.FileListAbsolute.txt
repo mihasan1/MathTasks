@@ -1,0 +1,9 @@
+D:\1\projects\SimpsonMetod\SimpsonMetod\bin\Debug\SimpsonMetod.exe.config
+D:\1\projects\SimpsonMetod\SimpsonMetod\bin\Debug\SimpsonMetod.exe
+D:\1\projects\SimpsonMetod\SimpsonMetod\bin\Debug\SimpsonMetod.pdb
+D:\1\projects\SimpsonMetod\SimpsonMetod\obj\Debug\SimpsonMetod.csprojResolveAssemblyReference.cache
+D:\1\projects\SimpsonMetod\SimpsonMetod\obj\Debug\SimpsonMetod.Form1.resources
+D:\1\projects\SimpsonMetod\SimpsonMetod\obj\Debug\SimpsonMetod.Properties.Resources.resources
+D:\1\projects\SimpsonMetod\SimpsonMetod\obj\Debug\SimpsonMetod.csproj.GenerateResource.Cache
+D:\1\projects\SimpsonMetod\SimpsonMetod\obj\Debug\SimpsonMetod.exe
+D:\1\projects\SimpsonMetod\SimpsonMetod\obj\Debug\SimpsonMetod.pdb
